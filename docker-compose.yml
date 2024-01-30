@@ -19,7 +19,7 @@ services:
       REQUIRE_DB_SSL: "false"
       REACT_APP_FILE_UPLOADS_ENABLED: 1
       # Replace with your domain name
-      REACT_APP_URL: "papercupsfactsfinder.herokuapp.com"
+      REACT_APP_URL: "https://sheltered-scrubland-24566-a9a5cc1b7372.herokuapp.com"
   db:
     image: postgres:alpine
     restart: always
