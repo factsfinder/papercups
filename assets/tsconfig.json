@@ -17,5 +17,5 @@
     "preserveConstEnums": true,
     "jsx": "react"
   },
-  "include": ["src", "src/lib/storytime"]
+  "include": ["config-overrides.js", "src", "src/lib/storytime"]
 }
