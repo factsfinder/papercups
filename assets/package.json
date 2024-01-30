@@ -101,9 +101,11 @@
   },
   "proxy": "http://localhost:4000",
   "devDependencies": {
+    "buffer": "^6.0.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5",
+    "process": "^0.11.10",
     "react-app-rewired": "^2.2.1"
   }
 }
